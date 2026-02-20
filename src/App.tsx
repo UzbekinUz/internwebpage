@@ -1,6 +1,5 @@
 import { useState, type FormEvent } from 'react';
-import { 
-  Briefcase, 
+import {  
   MapPin, 
   DollarSign, 
   Clock, 
