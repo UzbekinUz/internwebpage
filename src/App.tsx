@@ -151,7 +151,7 @@ export default function App() {
           <div className="flex justify-between h-16 items-center">
             <div className="flex items-center gap-2 cursor-pointer" onClick={handleBackToList}>
               <div className="bg-none p-2 rounded-lg">
-                <img src="../public/mini.png" alt="logo" className='rounded-sm w-7.5'/>
+                <img src="/src/mini.png" alt="logo" className='rounded-sm w-7.5'/>
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-linear-to-r from-blue-400 to-blue-600">
                 InternNexus
