@@ -30,6 +30,18 @@ type ViewState = 'list' | 'apply' | 'success';
 const INTERNSHIPS: Internship[] = [
   {
     id: 1,
+    title: "Junior Economic Analyst Internship",
+    company: "Opportunities.com",
+    location: "Remote / Hybrid",
+    type: "Full-time Intern",
+    stipend: "$200 / month",
+    duration: "6–8 weeks",
+    skills: [ "World Bank & IMF datasets", "PowerPoint reporting","Analyze inflation", "GDP", "Market data"],
+    postedAt: "10 days ago",
+    isFree: true,
+    image: "/malasia.png"
+  },{
+    id: 1,
     title: "Frontend Engineering Intern",
     company: "TechNova Solutions",
     location: "Remote",
