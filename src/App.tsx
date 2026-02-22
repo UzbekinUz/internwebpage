@@ -31,6 +31,18 @@ const INTERNSHIPS: Internship[] = [
   {
     id: 1,
     title: "Junior Economic Analyst Internship",
+    company: "Faculty of Engineering and Technology (FEAT), Annamalai University",
+    location: "Chidambaram, Tamil Nadu, India (Hybrid and Remote options available)",
+    type: "Full-time Intern",
+    stipend: "$200 / month",
+    duration: "8 weeks",
+    skills: [ "RESTful API", "Git/GitHub","React", "TypeScript", "Tailwind CSS", "Node.js"],
+    postedAt: "8 days ago",
+    isFree: true,
+    image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=8"
+  },{
+    id: 1,
+    title: "Junior Economic Analyst Internship",
     company: "Opportunities.com",
     location: "Remote / Hybrid",
     type: "Full-time Intern",
